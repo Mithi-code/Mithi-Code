@@ -1,6 +1,6 @@
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300">
 
-<h2> Hey there! I'm Mithlesh Kumnar.</h2>
+<h2> Hey there! I'm Mithlesh Kumar.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
