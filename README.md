@@ -35,7 +35,7 @@
 
  - 🌱 I’m currently working on **many things**
  
- - 🌱 I’m open to remote jobs 
+ - 🌱 I’m open to Local/Remote jobs 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithi-code&show_icons=true&locale=en&layout=compact" alt="mithi-code" /></p>
