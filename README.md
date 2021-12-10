@@ -1,25 +1,57 @@
-<h1 align="center">Hi 👋, I'm Mithlesh Kumar</h1>
-<h3 align="center">FrontEnd developer with experience in JavaScript | React & Redux. I am currently looking for new opportunities</h3>
+<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mithi-code&label=Profile%20views&color=0e75b6&style=flat" alt="mithi-code" /> </p>
+<h2> Hey there! I'm Mithlesh Kumnar.</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mithi-code" alt="mithi-code" /></a> </p>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<p align="left"> <a href="https://twitter.com/@lazymithlesh" target="blank"><img src="https://img.shields.io/twitter/follow/@lazymithlesh?logo=twitter&style=for-the-badge" alt="@lazymithlesh" /></a> </p>
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Electronics and Communication Engineering.
+- 🎓 &nbsp; Currently enroll in Microverse Program .
+- 💼 &nbsp; Working as a IONIC React developer at Xstudy solutions.
+- ✍️ &nbsp; Pursuing Web and mobile development.
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@lazymithlesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lazymithlesh" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mithlesh1.2.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mithlesh1.2.3" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/lazy_mithi/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/lazy_mithi/?hl=en" height="30" width="40" /></a>
-</p>
+- 💻 &nbsp;
+  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+- 🖥 &nbsp;
+  
+  
+ - 🔭 I’m currently working on [Hulu-clone](https://mithi-code.github.io/hulu-clone/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+ - 🌱 I’m currently working on **many things**
+ 
+ - 🌱 I’m open to remote jobs 
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithi-code&show_icons=true&locale=en&layout=compact" alt="mithi-code" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mithi-code&show_icons=true&locale=en" alt="mithi-code" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mithi-code&" alt="mithi-code" /></p>
+
+    
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+
+📫 How to reach me: [Linkedin]https://www.linkedin.com/in/mithlesh-kumar-564a97221/)
+
+📫 How to reach me: <a href="mailto:mithlesh.9m@gmail.com">mithlesh.9m@gmail.com</a>
+</p>
+
 
