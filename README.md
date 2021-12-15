@@ -2,7 +2,7 @@
 
 <h2> Hey there! I'm Mithlesh Kumar.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3>👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Electronics and Communication Engineering.
@@ -41,7 +41,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mithi-code&show_icons=true&locale=en" alt="mithi-code" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mithi-code&" alt="mithi-code" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mithi-code&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
     
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
