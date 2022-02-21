@@ -36,7 +36,7 @@
  - 🌱 I’m open to Local/Remote jobs 
 
 
-![Mithlesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mithi-code&show_icons=true&theme=&bg_color=dark)
+![Mithlesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mithi-code&show_icons=true&theme=blue-green&bg_color=dark)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mithi-code&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
